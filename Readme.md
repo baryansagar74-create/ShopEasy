@@ -1,6 +1,6 @@
-# Amezon Clone
-github repo - [Amezone-clone](https://github.com/arpitbanna/amezon-clone.git)
+# Amazon Clone
+github repo - [Amazone-clone](https://github.com/arpitbanna/amezon-clone.git)
 
-vercel deployment - [Amezone-clone](https://amezon-clone-com.vercel.app/)
+vercel deployment - [Amazone-clone](https://amezon-clone-com.vercel.app/)
 
 
